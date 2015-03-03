@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<playlist>
+	<item>
+		<title>01</title>
+		<artist>The Center</artist>
+		<path>songs/01 Track 1.mp3</path>
+	</item>
+	<item>
+		<title>02</title>
+		<artist>Beyond</artist>
+		<path>songs/02 Track 2.mp3</path>
+	</item>
+	<item>
+		<title>03</title>
+		<artist>At First</artist>
+		<path>songs/03 Track 3.mp3</path>
+	</item>
+	<item>
+		<title>04</title>
+		<artist>How Far</artist>
+		<path>songs/04 Track 4.mp3</path>
+	</item>
+	<item>
+		<title>05</title>
+		<artist>A Glide</artist>
+		<path>songs/05 Track 5.mp3</path>
+	</item>
+	<item>
+		<title>06</title>
+		<artist>Bad News</artist>
+		<path>songs/06 Track 6.mp3</path>
+	</item>
+	<item>
+		<title>07</title>
+		<artist>Paradise</artist>
+		<path>songs/07 Track 7.mp3</path>
+	</item>
+	<item>
+		<title>08</title>
+		<artist>Sonora</artist>
+		<path>songs/08 Track 8.mp3</path>
+	</item>
+	<item>
+		<title>09</title>
+		<artist>The Lines</artist>
+		<path>songs/09 Track 9.mp3</path>
+	</item>
+	<item>
+		<title>10</title>
+		<artist>Star Dust</artist>
+		<path>songs/10 Track 10.mp3</path>
+	</item>
+	<item>
+		<title>11</title>
+		<artist>Dreams</artist>
+		<path>songs/11 Track 11.mp3</path>
+	</item>
+	<item>
+		<title>12</title>
+		<artist>We All Know</artist>
+		<path>songs/12 Track 12.mp3</path>
+	</item>
+	<item>
+		<title>13</title>
+		<artist>Bonus Track</artist>
+		<path>songs/13 Track 13.mp3</path>
+	</item>
+</playlist>

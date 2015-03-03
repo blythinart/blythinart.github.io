@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<playlist>
+	<item>
+		<title>01</title>
+		<artist>You're The One</artist>
+		<path>songs/01 Track 1.mp3</path>
+	</item>
+	<item>
+		<title>02</title>
+		<artist>1 & The Same</artist>
+		<path>songs/02 Track 2.mp3</path>
+	</item>
+	<item>
+		<title>03</title>
+		<artist>4 Fat Ladies</artist>
+		<path>songs/03 Track 3.mp3</path>
+	</item>
+	<item>
+		<title>04</title>
+		<artist>Pretty Mean Mary</artist>
+		<path>songs/04 Track 4.mp3</path>
+	</item>
+	<item>
+		<title>05</title>
+		<artist>Caught By Her Love</artist>
+		<path>songs/05 Track 5.mp3</path>
+	</item>
+	<item>
+		<title>06</title>
+		<artist>High Places</artist>
+		<path>songs/06 Track 6.mp3</path>
+	</item>
+	<item>
+		<title>07</title>
+		<artist>She's My Lady</artist>
+		<path>songs/07 Track 7.mp3</path>
+	</item>
+	<item>
+		<title>08</title>
+		<artist>It Hurts So Bad</artist>
+		<path>songs/08 Track 8.mp3</path>
+	</item>
+	<item>
+		<title>09</title>
+		<artist>You Touch Me</artist>
+		<path>songs/09 Track 9.mp3</path>
+	</item>
+	<item>
+		<title>10</title>
+		<artist>Such A Pretty Girl</artist>
+		<path>songs/10 Track 10.mp3</path>
+	</item>
+	<item>
+		<title>11</title>
+		<artist>Too Much To Bear</artist>
+		<path>songs/11 Track 11.mp3</path>
+	</item>
+	<item>
+		<title>12</title>
+		<artist>Say Goodbye</artist>
+		<path>songs/12 Track 12.mp3</path>
+	</item>
+</playlist>

@@ -1,1 +1,1 @@
-# Future Website of BlythinArt.com
+# Website for BlythinArt.com
