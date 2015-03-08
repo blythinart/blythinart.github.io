@@ -34,11 +34,10 @@
 }
 
 .letter {
-    text-align: left;
-    width: 760px;
-    border: 1px black solid;
-    height: 740px;
-    padding: 20px;
+
+    position:absolute;
+    right:8px;
+    bottom:8px
 }
 
 .img-shadow {
@@ -61,6 +60,7 @@
 
 #middle {
     width: 800px;
+    margin: 0 auto;
 }
 
 img.floatRight {
@@ -115,5 +115,17 @@ img.floatRight {
     z-index: -1;
     border: 0px;
 
+}
+
+
+#header img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto
+}
+
+.sow{
+    width: 267px;
+    margin: 0 auto;
 }
 
