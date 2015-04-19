@@ -1,1 +1,1 @@
-# Website for BlythinArt.com
+# Website for [BlythinArt.com](blythinart.com)
