@@ -34,10 +34,8 @@
 }
 
 .letter {
-
-    position:absolute;
-    right:8px;
-    bottom:8px
+    width: 600px;
+    text-align: left;
 }
 
 .img-shadow {
@@ -46,7 +44,6 @@
     background: url(../img/shadow.gif) no-repeat bottom right;
     margin: 24px 10px 3px 19px !important;
     margin: 24px 10px 3px 19px;
-
 }
 
 .img-shadow img {
@@ -89,7 +86,6 @@ img.floatRight {
 .nav a {
     text-decoration: none;
     color: #000000;
-
 }
 
 .nav a:hover {
@@ -99,7 +95,6 @@ img.floatRight {
 .photoIndex {
     text-decoration: none;
     color: #000000;
-
     margin: 5px;
 }
 
@@ -114,9 +109,7 @@ img.floatRight {
     right: 0px;
     z-index: -1;
     border: 0px;
-
 }
-
 
 #header img {
     display: block;
@@ -124,8 +117,18 @@ img.floatRight {
     margin-right: auto
 }
 
-.sow{
+.sow {
     width: 267px;
     margin: 0 auto;
 }
 
+.borderless {
+    border:0px
+}
+
+.letter-link {
+    position:absolute;
+    bottom:25px;
+    right: 25px;
+    font-weight: bold;
+}

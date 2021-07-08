@@ -1,0 +1,32 @@
+#playlist  {
+    background: #666;
+    width: 380px;
+    padding: 10px;
+}
+
+audio {
+    width: 380px;
+    padding-bottom: 10px;
+}
+
+.active a {
+    color: #5DB0E6;
+    text-decoration: none;
+}
+
+li {
+    list-style: none;
+    text-decoration: none;
+}
+
+li a {
+    color: #eeeedd;
+    background: #333;
+    padding: 5px;
+    display: block;
+    text-decoration:none
+}
+
+li a:hover {
+    text-decoration: underline;
+}
