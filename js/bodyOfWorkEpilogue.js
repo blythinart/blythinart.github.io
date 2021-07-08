@@ -1,33 +1,6 @@
-
-var viewer = null;
-
-function initialize() 
-{
-	var viewerDiv 	= document.getElementById('viewerCanvas2')
-	viewer 		= new google.books.DefaultViewer(viewerDiv);
-	
-	viewer.load('GA6ScSY5h5EC', viewerLoadFail, viewerLoadSuccess);
-	viewer.zoomIn();
-
+google.books.load();
+function initialize() {
+  var viewer = new google.books.DefaultViewer(document.getElementById('viewerCanvas'));
+  viewer.load('GA6ScSY5h5EC');
 }
-
-function viewerLoadFail() 
-{
-        document.getElementById('viewerCanvas2').style.display = 'none';
-}
-
-
-function viewerLoadSuccess() 
-{
-        if (!viewer) return;
-        
-        viewer.zoomIn();
-        viewer.nextPage();
-        viewer.previousPage();
-
-        
-}
-
-
-google.setOnLoadCallback(initialize);
-google.load("books", "0");
+google.books.setOnLoadCallback(initialize);
